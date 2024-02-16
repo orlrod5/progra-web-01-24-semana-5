@@ -17,7 +17,7 @@ function App() {
 
       {nombre === nombreVerificar ? (
         <h1>Los nombres son iguales</h1>
-      ) : (<h1>Los nombres son diferentes</h1>)}
+      ) : (<h1>Los nombres no son iguales</h1>)}
         
     </div>
   );
